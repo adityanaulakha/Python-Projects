@@ -1,2 +1,2 @@
 # Python-Projects
-Here will be my some basic C-Projects which I made in my First Semester of Btech(CS). Hope you like them :)
+Here will be my some basic Python Projects which I made in my First Semester of Btech(CS). Hope you like them :)
