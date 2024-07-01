@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository featuring many Python-based projects! 🗳️
 
-# Project Overview 
+# 1. Voting Machine 
 
 For an example I have created a Python based Voting Machine. This project demonstrates my skills in Python programming, implementing a Voting Machine application with features learned during my first semester. It includes essential functionalities such as username-password authentication, real-time vote tallying, and options for gender selection.
 
